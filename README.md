@@ -1,6 +1,6 @@
 # EMMA - Multifunctional Autonomous Robot Assistant
 
-![alt text](<EMMA - V3.png>)
+![alt text](<Images/EMMA - V3.png>)
 
 **EMMA** is a multifunctional autonomous robot assistant. EMMA automates patient registration and vital sign monitoring, effectively managing crowds. It also serves as a guide for patient families, offering instructions and hospital layout information. Voice-activated enrollment allows patients to provide data efficiently. The vital sign data are collected through sensors and analyzed to determine if values are normal or abnormal. If an anomaly is detected, EMMA quickly generates an alert either by calling or messaging. Additionally, EMMA features a chatbot that interacts with patients, improving communication and accessibility. A Pi camera captures the patient's image, which, along with vital signs, is compiled into a PDF report. This comprehensive report provides healthcare professionals with a timely and detailed overview of the patient's current health status, facilitating more efficient initial assessments. By streamlining the enrollment process, EMMA reduces workload, minimizes human error, and ensures accurate data collection and analysis.
 
@@ -38,7 +38,9 @@
 
 ## Block Diagram
 
-![alt text](<Robocare sih block diagram updated.png>)
+![alt text](<Images/BlockDiagram.png>)
+
+
 
 
 ---
