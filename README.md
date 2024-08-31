@@ -1,6 +1,8 @@
 # EMMA - Multifunctional Autonomous Robot Assistant
 
-EMMA is a multifunctional autonomous robot assistant. EMMA automates patient registration and vital sign monitoring, effectively managing crowds. It also serves as a guide for patient families, offering instructions and hospital layout information. Voice-activated enrollment allows patients to provide data efficiently. The vital sign data are collected through sensors and analyzed to determine if values are normal or abnormal. If an anomaly is detected, EMMA quickly generates an alert either by calling or messaging. Additionally, EMMA features a chatbot that interacts with patients, improving communication and accessibility. A Pi camera captures the patient's image, which, along with vital signs, is compiled into a PDF report. This comprehensive report provides healthcare professionals with a timely and detailed overview of the patient's current health status, facilitating more efficient initial assessments. By streamlining the enrollment process, EMMA reduces workload, minimizes human error, and ensures accurate data collection and analysis.
+![alt text](<EMMA - V3.png>)
+
+**EMMA** is a multifunctional autonomous robot assistant. EMMA automates patient registration and vital sign monitoring, effectively managing crowds. It also serves as a guide for patient families, offering instructions and hospital layout information. Voice-activated enrollment allows patients to provide data efficiently. The vital sign data are collected through sensors and analyzed to determine if values are normal or abnormal. If an anomaly is detected, EMMA quickly generates an alert either by calling or messaging. Additionally, EMMA features a chatbot that interacts with patients, improving communication and accessibility. A Pi camera captures the patient's image, which, along with vital signs, is compiled into a PDF report. This comprehensive report provides healthcare professionals with a timely and detailed overview of the patient's current health status, facilitating more efficient initial assessments. By streamlining the enrollment process, EMMA reduces workload, minimizes human error, and ensures accurate data collection and analysis.
 
 ## Key Features
 
@@ -33,6 +35,11 @@ EMMA is a multifunctional autonomous robot assistant. EMMA automates patient reg
 - **Error Minimization:** EMMA ensures accurate data collection and analysis, minimizing the risk of human error.
 - **Enhanced Patient Care:** Through its multifunctional capabilities, EMMA improves patient care and streamlines the overall healthcare process.
 
+
+## Block Diagram
+
+![alt text](<Robocare sih block diagram updated.png>)
+
+
 ---
 
-EMMA represents the future of healthcare automation, offering a robust solution to improve the efficiency and accuracy of patient management while ensuring safety, comfort, and well-being for all.
